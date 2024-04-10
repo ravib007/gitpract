@@ -7,4 +7,15 @@ GIT HUB
 GIT LAB
 GIT REPOSITORY
 
+Strategies :
+------------
+1. Branch
+2. Merge
+3. Merge Conflict
+4. Rebase
+5. Cherry-pick
+6. Stash -delete
+7. Pull
+8. clone
+9. fork
 
